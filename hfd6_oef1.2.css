@@ -1,0 +1,68 @@
+#paint{
+    height: 400px;
+    width: 400px;
+    margin-top: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    border: 7px solid black;
+}
+
+#box1{
+    height: 100px;
+    width: 330px;
+    margin-top: -6px;
+    margin-left: 553px;
+    margin-right: auto;
+    background-color: white;
+    border: 7px solid black;
+}
+
+#box2{
+    height: 99px;
+    width: 90px;
+    margin-top: -113px;
+    margin-left: 455px;
+    margin-right: auto;
+    background-color: blue;
+    border: 7px solid black;
+}
+
+#box3{
+    height:99px;
+    width:63px;
+    margin-top:-113px;
+    margin-left: 890px;
+    margin-right: auto;
+    background-color: white;
+    border: 7px solid black;
+}
+
+#box4{
+    height: 50px;
+    width: 63px;
+    margin-top: -64px;
+    margin-left: 890px;
+    margin-right: auto;
+    background-color: yellow;
+    border: 7px solid black;
+}
+
+#box5{
+    height: 400px;
+    width: 90px;
+    margin-top: -522px;
+    margin-left: 455px;
+    margin-right: auto;
+    background-color: white;
+    border: 7px solid black;
+}
+#box6{
+    height:100px;
+    width:90px;
+    margin-top:-414px;
+    margin-left: 455px;
+    margin-right: auto;
+    background-color: white;
+    border: 7px solid black;
+}

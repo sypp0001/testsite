@@ -1,0 +1,116 @@
+body, html{
+    background-color: white
+}
+
+#kaas {
+    background-color: #fff4db;
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#toprow{
+    height: 290px;
+}
+
+#bigbox{
+    height: 290px;
+    width: 290px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+
+.right{
+    float: right;
+}
+
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
+
+#divider2 {
+    height: 10px;
+    width: 100px;
+}
+
+#middlerow {
+    height:px;
+}
+
+#divider3 {
+    height: 10px;
+    width: 400px;
+}
+#bottom-right-column {
+    height: 100px;
+    width: 40px;
+}
+
+.small-box {
+    width: 50px;
+    height: 45px;
+}
+
+#divider5 {
+    height: 10px;
+    width: 400px;
+}
+
+#bottomrow {
+    height: 100px;
+}
+
+.mediumbox {
+    width: 100px;
+    height: 100px;
+}
+
+#divider6{
+    height: 100px;
+    width: 10px;
+}
+
+#divider7{
+    height: 100px;
+    width: 10px;
+}
+
+#bottomright{
+    height: 100px;
+    width: 100px;
+}
+
+#bottombox{
+    height: 50px;
+    width: 50px;
+}
+
+#bottombottom{
+    height: 70px;
+}
+
+#divider8{
+    height: 100px;
+    width: 10px;
+}
